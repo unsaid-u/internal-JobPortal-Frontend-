@@ -1,0 +1,22 @@
+.listings-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.add-opening-box{
+    width: 340px;
+    padding: 10px;
+    border: 1px black solid;
+    border-radius: 5px;
+    word-wrap: break-word;
+    background-color: #CACFD2;
+    cursor: pointer;
+}
+
+.listing-left-side{
+    flex-basis: 70%;
+}
+
+.listing-right-side{
+    flex-basis: 30%;
+}

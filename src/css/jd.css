@@ -1,0 +1,23 @@
+.title{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+}
+
+.lists{
+    margin-left: 50px ;
+}
+
+li{
+    font-style: italic;
+}
+
+.size{
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+h1{
+    font-size: 3em;
+}
+

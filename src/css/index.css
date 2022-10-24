@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Inter&family=Rubik&display=swap');
+
+*{
+    font-family: "Inter", "Lato", sans-serif;
+    /* background-color:#F7F9F9; */
+    margin: 0;
+    padding: 0;
+}
+
+
+.normal-wrapper{
+    border: 2px solid #ABB2B9;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+/* .MuiContainer-maxWidthXl{
+    width: 30%;
+} */
